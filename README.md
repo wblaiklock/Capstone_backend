@@ -11,7 +11,7 @@
 https://github.com/wblaiklock/Capstone_backend
 
 ## Setting Up the Backend
-1. git clone **url repo string**
+1. git clone https://github.com/wblaiklock/Capstone_backend
 2. npm i - to install all packages
 3. set up a .env file
     - include PORT & mongoURI variables for server and to connect to DB
