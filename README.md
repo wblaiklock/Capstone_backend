@@ -8,7 +8,7 @@
 - Node.JS
 
 ## Link to FrontEnd Repository
-[[https://github.com/comeaudc/mern_Todo_BE](https://github.com/wblaiklock/Capstone_backend)](https://github.com/wblaiklock/Capstone_Frontend)
+https://github.com/wblaiklock/Capstone_backend
 
 ## Setting Up the Backend
 1. git clone **url repo string**
