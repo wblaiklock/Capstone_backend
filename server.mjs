@@ -11,7 +11,6 @@ const PORT = process.env.PORT || 3001;
 
 //DB
 connectDB();
-
 //Middleware
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));

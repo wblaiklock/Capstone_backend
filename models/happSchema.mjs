@@ -5,10 +5,13 @@ const happSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  complete: {
-    type: Boolean,
+  location: {
+    type: String,
     required: true,
-    default: false,
+  },
+  time: {
+    type: Date,
+    required: false,
   },
 });
 
