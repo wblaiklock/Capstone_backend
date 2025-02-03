@@ -1,3 +1,5 @@
+// Deployed to https://mern-backend-0cco.onrender.com/
+
 import express from 'express';
 import dotenv from 'dotenv';
 import bodyParser from 'body-parser';
