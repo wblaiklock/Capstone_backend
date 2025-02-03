@@ -8,6 +8,10 @@ const happSchema = new mongoose.Schema({
   location: {
     type: String,
     required: true,
+  },
+  time: {
+    type: Date,
+    required: true,
   }
 });
 
