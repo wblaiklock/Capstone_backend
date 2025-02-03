@@ -3,7 +3,7 @@ import dotenv from 'dotenv';
 import bodyParser from 'body-parser';
 import cors from 'cors';
 import connectDB from './config/db.mjs';
-import todoRoutes from './routes/todoRoutes.mjs';
+import happRoutes from './routes/happRoutes.mjs';
 
 dotenv.config();
 const app = express();
@@ -18,7 +18,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json({ extended: true }));
 
 // Routes
-app.use('/api/todos', todoRoutes);
+app.use('/api/happs', happRoutes);
 app.get('*', (req, res)=>{
     res.send('Invalid Route: 404')
 })
