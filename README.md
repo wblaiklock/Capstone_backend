@@ -1,4 +1,7 @@
 # Capstone Backend
+Back end for an event planning site.
+
+Hosted on: https://mern-backend-0cco.onrender.com/
 
 ## Tools
 - React FrontEnd
