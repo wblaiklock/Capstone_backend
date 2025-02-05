@@ -21,4 +21,4 @@ Hosted on: https://mern-backend-0cco.onrender.com/
 4. npm start = to begin running terminal
 
 ## Summary
-This project is a full-stack application built using the MERN (MongoDB, Express, React, Node.js) stack. Enter events using the icon in the top right; clicking on entries in the left bar on the front page allows focusing the selecting and the ability to modify or delete the entry.
+This project is a full-stack application built using the MERN (MongoDB, Express, React, Node.js) stack. Enter events using the icon in the top right; clicking on entries in the left bar on the front page allows focusing the selection and the ability to modify or delete the entry.
