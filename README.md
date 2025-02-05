@@ -11,7 +11,7 @@ Hosted on: https://mern-backend-0cco.onrender.com/
 - Node.JS
 
 ## Link to FrontEnd Repository
-[https://github.com/wblaiklock/Capstone_backend](https://github.com/wblaiklock/Capstone_Frontend)
+https://github.com/wblaiklock/Capstone_Frontend
 
 ## Setting Up the Backend
 1. git clone https://github.com/wblaiklock/Capstone_backend
