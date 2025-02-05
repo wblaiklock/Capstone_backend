@@ -22,4 +22,4 @@ https://github.com/wblaiklock/Capstone_Frontend
 
 ## Summary
 This project is a full-stack application built using the MERN (MongoDB, Express, React, Node.js) stack. Functionality is transparent to the user and requires on interaction. 
-Data Schema: {description, name}
+Data Schema: {description, location}
